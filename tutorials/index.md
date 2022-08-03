@@ -12,6 +12,7 @@ You can also clone these to use as a base for your own analysis.
 
 
 ## Python
+### USA
 Example [Google Colab
 notebooks](https://colab.sandbox.google.com/notebooks/intro.ipynb) written in
 Python:
@@ -27,3 +28,7 @@ Python:
 -   [Case Study: Analyzing Genomic Data with Biomedical Data Commons](https://colab.research.google.com/github/datacommonsorg/api-python/blob/master/notebooks/analyzing_genomic_data.ipynb){:target="_blank"}
 
 -   [Case Study: Drug Discovery with Biomedical Data Commons](https://colab.research.google.com/github/datacommonsorg/api-python/blob/master/notebooks/Drug_Discovery_With_Data_Commons.ipynb){:target="_blank"}
+
+
+### India
+-   [Analysis of Mean Daily Wages of Men and Women of India](https://colab.research.google.com/drive/1oL0v6ZB4InHnMYo3bTQcSs4ZIHz6XIQ7){:target="_blank"}
